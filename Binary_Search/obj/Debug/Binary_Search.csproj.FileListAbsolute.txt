@@ -1,0 +1,7 @@
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\bin\Debug\Binary_Search.exe.config
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\bin\Debug\Binary_Search.exe
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\bin\Debug\Binary_Search.pdb
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\obj\Debug\Binary_Search.csprojAssemblyReference.cache
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\obj\Debug\Binary_Search.csproj.CoreCompileInputs.cache
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\obj\Debug\Binary_Search.exe
+E:\Viusal_CS_Projects\Binary_Search\Binary_Search\obj\Debug\Binary_Search.pdb
